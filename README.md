@@ -6,6 +6,7 @@ This interactive dashboard suite offers a **360-degree view of business performa
 ---
 
 ## 📂 Files Included 
+- `Dataset.xlsx` – Sample Dataset
 - `Dashboard.pbix` – Power BI Dashboard File  
 - `README.md` – Project documentation  
 - `Sales_Dashboard.png` – Screenshot of Sales Dashboard  
@@ -67,5 +68,6 @@ This interactive dashboard suite offers a **360-degree view of business performa
 3. Explore the interactive dashboards using the navigation buttons.  
 
 ---
+
 
 📌 *Note: Dataset is a publicly available sample dataset, used only for practice and learning.*
